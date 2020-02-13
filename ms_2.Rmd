@@ -1,0 +1,51 @@
+---
+title: "Milestone 2"
+author: "Taylor Greenberg Goldy"
+date: "2/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+
+Final Project Milestone #2 due Friday, February 14. Github repo with Rmd (and
+knitted html) which discusses pros and cons two projects from past years. At
+least one project should be one which did extensive data gathering/cleaning. You
+should not select the same projects for commentary as your friends have.
+Students generally write about a paragraph for each project.
+
+# Project 1: Analysis of Queen by Hannah Valencia
+
+This project really stood out to me not only from the quality of data, but the
+specificity and visual communication of information that Hannah created.  For
+pros, I think the bar plot is a very straightforward communication method for
+users to toggle through and pick out what they want to understand.  One con for
+me was that the "density" option wasn't completely clear to me what it was
+trying to communicate.  Is the danceability on the x axis supposed to show over
+time? Another pro was the level of information.  Hannah was able to find data
+that not only captured lyrics, but audio features (which had further
+subcategories) as well as sentiment.  A con of this project for me might be the
+balance of qualitative/quantitative information.  There might've been more
+quantitative measurements that could've been cool to include like number of
+records sold, money earned per song etc.  Overall, I really love this project.
+As someone who comes from a qualitative background, it's a big challenge to
+figure out how to visualize softer metrics.
+
+# Project 2: Unclaimed Property by Jake Schonberger
+
+This project seemed like a huge undertaking of data.  Jake not only took data
+from one state, but had data on unclaimed property from 7 states.  If you look
+at the actual data, there is alot of information that includes the person's
+address and even their name that corresponds to unclaimed property.  In order to
+create any of these visualizations, it seems like there was alot of cleaning and
+gathering done in order to simplify the story.  A pro of this is that I think
+the information is simple, and easy to follow.  A con of it is that overall, the
+site is extremely long to load or has a substantial lag. I'm not sure if it's
+because of some of the packages he's using or if there is just too much data to
+handle? On the Digging In tab, some of the data seems not to be loading.  I'm not 
+sure if it was like that before but it seems like something to watch out for after 
+submission.
